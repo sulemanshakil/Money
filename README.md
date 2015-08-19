@@ -1,1 +1,1 @@
-# Money is money managing app. Helps you track your expenses. 
+# Money app: is money managing app. Helps you track your expenses. 
